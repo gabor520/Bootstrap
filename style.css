@@ -1,0 +1,16 @@
+body{
+    background-image: url(hatter.jpg)
+}
+.balra{
+    float: left;
+    max-width: 50px;
+    max-height: 50px;
+    margin: 20px;
+}
+.headerkep{
+    margin: 20px;
+    margin: auto;
+}
+.bold{
+    font-weight: bold;
+}
