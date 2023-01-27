@@ -3,9 +3,8 @@ body{
 }
 .balra{
     float: left;
-    max-width: 50px;
     max-height: 50px;
-    margin: 20px;
+    margin: 10px;
 }
 .headerkep{
     margin: 20px;
@@ -14,3 +13,9 @@ body{
 .bold{
     font-weight: bold;
 }
+/*.jobbra{
+   float: right;
+    width: 200px;
+    height: 150px;
+    margin: 20px;
+}*/
